@@ -1,4 +1,4 @@
-# Scaf-GRPO: Scaffolded Group Relative Policy Optimization for Enhancing LLM Reasoning(ICLR 2026)
+# Scaf-GRPO: Scaffolded Group Relative Policy Optimization for Enhancing LLM Reasoning (ICLR 2026)
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Overview of the Scaf-GRPO framework:
 **Scaf-GRPO** is a progressive training framework designed to overcome the "learning cliff" in reinforcement learning for LLMs. When a model consistently fails on difficult problems, leading to zero-reward signals and stalled progress, Scaf-GRPO intervenes with minimal, hierarchical guidance. By injecting tiered in-prompt hints—from abstract concepts to concrete steps—it enables the model to construct a valid solution, restoring the learning gradient and unlocking its ability to solve problems previously beyond its reach. This on-policy scaffolding approach preserves the model's exploratory autonomy while effectively extending the frontier of its reasoning capabilities.
 
 ## Contents
-- [Scaf-GRPO: Scaffolded Group Relative Policy Optimization for Enhancing LLM Reasoning(ICLR 2026)](#scaf-grpo-scaffolded-group-relative-policy-optimization-for-enhancing-llm-reasoningiclr-2026)
+- [Scaf-GRPO: Scaffolded Group Relative Policy Optimization for Enhancing LLM Reasoning (ICLR 2026)](#scaf-grpo-scaffolded-group-relative-policy-optimization-for-enhancing-llm-reasoning-iclr-2026)
   - [Contents](#contents)
   - [Installation](#installation)
       - [1. Create and Activate Conda Environment](#1-create-and-activate-conda-environment)
