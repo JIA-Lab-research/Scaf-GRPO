@@ -13,6 +13,8 @@ This is the official implementation of **"[Scaf-GRPO: Scaffolded Group Relative 
 
 **Paper**: [Scaf-GRPO: Scaffolded Group Relative Policy Optimization for Enhancing LLM Reasoning](https://arxiv.org/abs/2510.19807)
 
+> **News**: Our paper has been **accepted to ICLR 2026**. 🎉
+
 <br>
 
 Overview of the Scaf-GRPO framework:
@@ -201,11 +203,11 @@ The final results, including generated responses and their evaluation metrics, w
 ## Citation
 If you find our work and resources useful in your research, please consider citing our paper:
 ```bibtex
-@article{zhang2025scafgrpo,
+@inproceedings{zhang2026scafgrpo,
   title={{Scaf-GRPO: Scaffolded Group Relative Policy Optimization for Enhancing LLM Reasoning}},
-  author={Xichen Zhang, Sitong Wu, Yinghao Zhu, Haoru Tan, Shaozuo Yu, Ziyi He, Jiaya Jia},
-  journal={arXiv preprint arXiv:2510.19807},
-  year={2025}
+  author={Xichen Zhang and Sitong Wu and Yinghao Zhu and Haoru Tan and Shaozuo Yu and Ziyi He and Jiaya Jia},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2026}
 }
 ```
 
